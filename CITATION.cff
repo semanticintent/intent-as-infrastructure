@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+title: "Intent-as-Infrastructure: When the Compiler Is Claude"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Shatny
+    given-names: Michael
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+repository-code: "https://github.com/semanticintent/intent-as-infrastructure"
+abstract: >-
+  Intent-as-Infrastructure (IaI) proposes a paradigm distinct from
+  Methodology-as-Infrastructure: where MaI encodes how to think into
+  pre-compiled deterministic runtimes, IaI encodes what to reach into as
+  a bounded declarative vocabulary — delegating compilation to an AI model.
+  The four required properties are: Declarative (bounded vocabulary, intent
+  only), Compiled (AI model generates executable artifacts per run),
+  Sovereign artifacts (every execution produces a citable, git-trackable
+  finding record), and Human-as-primitive (human judgment is a first-class
+  architectural element, not an optional approval step). REACH (Runtime
+  Executable Adaptive C# Handler) and OCTO (On-demand Contextual Task
+  Orchestrator) serve as primary case studies, validated across 18 POC
+  cases and two production workflows against Windows live systems.
+keywords:
+  - intent-as-infrastructure
+  - workflow-automation
+  - domain-specific-language
+  - human-in-the-loop
+  - sovereign-artifacts
+  - semantic-intent
+  - ai-compilation
+  - on-demand-orchestration
+  - methodology-as-infrastructure
+  - knowledge-work-automation
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-13"
+references:
+  - type: software
+    title: "REACH: Runtime Executable Adaptive C# Handler and OCTO: On-demand Contextual Task Orchestrator"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20680385"
+    url: "https://github.com/semanticintent/reach"
+  - type: software
+    title: "Methodology-as-Infrastructure: From Framework to Runtime"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.18946631"
+    url: "https://github.com/semanticintent/methodology-as-infrastructure"
+  - type: software
+    title: "Semantic Intent SSOT"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.17114972"
+    url: "https://semanticintent.dev/papers/semantic-intent-ssot"
