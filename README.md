@@ -1,5 +1,7 @@
 # Intent-as-Infrastructure: When the Compiler Is Claude
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681523.svg)](https://doi.org/10.5281/zenodo.20681523)
+
 **Author:** Michael Shatny ([ORCID](https://orcid.org/0009-0006-2011-3258))
 
 Where Methodology-as-Infrastructure encodes *how to think* into pre-compiled runtimes, Intent-as-Infrastructure encodes *what to reach into* as bounded vocabulary — and delegates compilation to an AI model. The compiler is Claude. The artifact is sovereign. The human is a first-class architectural primitive, not an edge case.

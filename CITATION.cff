@@ -6,6 +6,7 @@ authors:
   - family-names: Shatny
     given-names: Michael
     orcid: "https://orcid.org/0009-0006-2011-3258"
+doi: "10.5281/zenodo.20681523"
 repository-code: "https://github.com/semanticintent/intent-as-infrastructure"
 abstract: >-
   Intent-as-Infrastructure (IaI) proposes a paradigm distinct from
