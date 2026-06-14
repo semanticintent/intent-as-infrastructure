@@ -371,6 +371,8 @@ Build the system around that.
 
 [4] M. Shatny, "OCTO vs Enterprise Agentic Frameworks: A Positioning Document," 2026. Available: [https://reach.semanticintent.dev/octo/positioning](https://reach.semanticintent.dev/octo/positioning)
 
+[5] M. Shatny, "The Synthesis Gate: What Makes a Workflow Agentic," 2026. DOI: [10.5281/zenodo.20684283](https://doi.org/10.5281/zenodo.20684283)
+
 ---
 
 ## Appendix A: OCTO vs Enterprise Agentic Frameworks — The Full Comparison
