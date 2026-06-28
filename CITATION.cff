@@ -6,7 +6,7 @@ authors:
   - family-names: Shatny
     given-names: Michael
     orcid: "https://orcid.org/0009-0006-2011-3258"
-doi: "10.5281/zenodo.20681523"
+doi: "10.5281/zenodo.20681522"
 repository-code: "https://github.com/semanticintent/intent-as-infrastructure"
 abstract: >-
   Intent-as-Infrastructure (IaI) proposes a paradigm distinct from
@@ -41,7 +41,7 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20680385"
+    doi: "10.5281/zenodo.20680384"
     url: "https://github.com/semanticintent/reach"
   - type: software
     title: "Methodology-as-Infrastructure: From Framework to Runtime"

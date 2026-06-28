@@ -1,6 +1,6 @@
 # Intent-as-Infrastructure: When the Compiler Is Claude
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681523.svg)](https://doi.org/10.5281/zenodo.20681523)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681522.svg)](https://doi.org/10.5281/zenodo.20681522)
 
 **Author:** Michael Shatny ([ORCID](https://orcid.org/0009-0006-2011-3258))
 
@@ -30,7 +30,7 @@ For a workflow system to qualify as Intent-as-Infrastructure:
 
 ## Evidence Base
 
-- **REACH** — Runtime Executable Adaptive C# Handler. `.reach` files declare workflow intent; Claude compiles to typed C# at runtime. 18 POC validations across Outlook, Teams, SQL Server, git, Playwright, FlaUI. Production timesheet and sprint health workflows. ([DOI](https://doi.org/10.5281/zenodo.20680385))
+- **REACH** — Runtime Executable Adaptive C# Handler. `.reach` files declare workflow intent; Claude compiles to typed C# at runtime. 18 POC validations across Outlook, Teams, SQL Server, git, Playwright, FlaUI. Production timesheet and sprint health workflows. ([DOI](https://doi.org/10.5281/zenodo.20680384))
 - **OCTO** — On-demand Contextual Task Orchestrator. Multiple REACH arms run simultaneously, surfaces a contextual decision interface, human closes the loop. Morning brief operational June 2026.
 
 ## The Paradigm Progression

@@ -363,7 +363,7 @@ Build the system around that.
 
 ## References
 
-[1] M. Shatny, "REACH: Runtime Executable Adaptive C# Handler and OCTO: On-demand Contextual Task Orchestrator," 2026. DOI: [10.5281/zenodo.20680385](https://doi.org/10.5281/zenodo.20680385)
+[1] M. Shatny, "REACH: Runtime Executable Adaptive C# Handler and OCTO: On-demand Contextual Task Orchestrator," 2026. DOI: [10.5281/zenodo.20680384](https://doi.org/10.5281/zenodo.20680384)
 
 [2] M. Shatny, "Methodology-as-Infrastructure: From Framework to Runtime," 2026. DOI: [10.5281/zenodo.18946630](https://doi.org/10.5281/zenodo.18946630)
 
@@ -371,7 +371,7 @@ Build the system around that.
 
 [4] M. Shatny, "OCTO vs Enterprise Agentic Frameworks: A Positioning Document," 2026. Available: [https://reach.semanticintent.dev/octo/positioning](https://reach.semanticintent.dev/octo/positioning)
 
-[5] M. Shatny, "The Synthesis Gate: What Makes a Workflow Agentic," 2026. DOI: [10.5281/zenodo.20684283](https://doi.org/10.5281/zenodo.20684283)
+[5] M. Shatny, "The Synthesis Gate: What Makes a Workflow Agentic," 2026. DOI: [10.5281/zenodo.20684282](https://doi.org/10.5281/zenodo.20684282)
 
 ---
 
