@@ -365,9 +365,9 @@ Build the system around that.
 
 [1] M. Shatny, "REACH: Runtime Executable Adaptive C# Handler and OCTO: On-demand Contextual Task Orchestrator," 2026. DOI: [10.5281/zenodo.20680385](https://doi.org/10.5281/zenodo.20680385)
 
-[2] M. Shatny, "Methodology-as-Infrastructure: From Framework to Runtime," 2026. DOI: [10.5281/zenodo.18946631](https://doi.org/10.5281/zenodo.18946631)
+[2] M. Shatny, "Methodology-as-Infrastructure: From Framework to Runtime," 2026. DOI: [10.5281/zenodo.18946630](https://doi.org/10.5281/zenodo.18946630)
 
-[3] M. Shatny, "Semantic Intent SSOT," 2025. DOI: [10.5281/zenodo.17114972](https://doi.org/10.5281/zenodo.17114972)
+[3] M. Shatny, "Semantic Intent SSOT," 2025. DOI: [10.5281/zenodo.17114971](https://doi.org/10.5281/zenodo.17114971)
 
 [4] M. Shatny, "OCTO vs Enterprise Agentic Frameworks: A Positioning Document," 2026. Available: [https://reach.semanticintent.dev/octo/positioning](https://reach.semanticintent.dev/octo/positioning)
 

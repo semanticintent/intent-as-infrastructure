@@ -44,8 +44,8 @@ For a workflow system to qualify as Intent-as-Infrastructure:
 
 ## Related Work
 
-- [Methodology-as-Infrastructure](https://doi.org/10.5281/zenodo.18946631) — the preceding paradigm; IaI extends the progression
-- [Semantic Intent SSOT](https://doi.org/10.5281/zenodo.17114972)
+- [Methodology-as-Infrastructure](https://doi.org/10.5281/zenodo.18946630) — the preceding paradigm; IaI extends the progression
+- [Semantic Intent SSOT](https://doi.org/10.5281/zenodo.17114971)
 - [REACH + OCTO Documentation](https://reach.semanticintent.dev)
 
 ## License
